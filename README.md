@@ -14,7 +14,12 @@ A html file in the directory of this project exists that shows dataset character
 <hr/>
 
 ## Covid 19 Patients Prediction
-In this project, the goal is to predict the patients number regarding to the covid 19 pandemy in Iran. I used linear regression at first to find the best linear equation that fits this data graph.
+In this project, the goal is to predict the patients number regarding to the covid 19 pandemy in Iran. I used linear regression at first to find the best linear equation that fits this data graph. Improvement of algorithm is progressed by using Gradient Descent algorithm.
 
 Furthermore, I used a polynomial regression algorithm to find the best degree of equation which fits on this data. All these algorithms implemented without using libraries and from scratch.
+<hr/>
 
+## Dogs Pics Classification
+This task is to classify dogs pictures in different classes related to their breeds. Dataset in this project is [ImageNetDogs](http://vision.stanford.edu/aditya86/ImageNetDogs/) which prepared by Stanford University.
+
+I used Transfer Learning with the help of TorchVision methods to construct a deep nueral network based on transfered weights of ResNet18.
