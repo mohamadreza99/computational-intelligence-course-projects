@@ -1,4 +1,4 @@
-# computational-intelligence-course-projects
+# Computational Intelligence Course Projects
 
 ## Adults Income Prediction
 In this project, I used well-known [adults](https://sci2s.ugr.es/keel/dataset.php?cod=192#sub1) dataset. 
