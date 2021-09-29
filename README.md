@@ -23,3 +23,9 @@ Furthermore, I used a polynomial regression algorithm to find the best degree of
 This task is to classify dogs pictures in different classes related to their breeds. Dataset in this project is [ImageNetDogs](http://vision.stanford.edu/aditya86/ImageNetDogs/) which prepared by Stanford University.
 
 I used Transfer Learning with the help of TorchVision methods to construct a deep nueral network based on transfered weights of ResNet18.
+<hr/>
+
+## Newspapers Texts Classfication
+This task was designed to classify newspaper articles to most relavant category. The category may be a general one like `Economy` or a more specific one like `Economy-Agriculture`
+
+I used TorchText library to utilize neural networks for NLP processes.
